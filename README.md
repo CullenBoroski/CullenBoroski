@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CullenBoroski
 - 👀 I’m interested in Web design and game creation
 - 🌱 I’m currently learning Web development and python language
-- 📫 How to reach me: 24cullen@gmail.com
+- 📫 How to reach me: cboro2@uic.edu
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am a Computer Science & Linguistics major at UIC!
 
